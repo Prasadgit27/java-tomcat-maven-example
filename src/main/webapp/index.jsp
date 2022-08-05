@@ -8,6 +8,6 @@
 <% 
     date = new Date();
 %>
-<b>System date and time: </b> <%= date %>
+<b><font color="red">System date and time: </b> <%= date %>
 </body>
 </html>
