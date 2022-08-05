@@ -1,7 +1,13 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h2>Hello prasad!</h2>
-<h2>Hello im lucky!</h2>
+<%-- JSP comments --%>
+<%@page import="java.util.Date"%>
+<%!
+    Date date; 
+%>
+<% 
+    date = new Date();
+%>
+<b>System date and time: </b> <%= date %>
 </body>
 </html>
