@@ -4,11 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Prasad Registration Form</title>
+<title>lucky Registration Form</title>
 </head>
 <body>
-<h1>Prasad Register Form</h1>
-<form action="Prasad_register" method="post">
+<h1>lucky Register Form</h1>
+<form action="lucky_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
