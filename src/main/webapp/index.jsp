@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Prasad Register Form</h1>
-<form action="guru_register" method="post">
+<form action="Prasad_register" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>First Name</td>
